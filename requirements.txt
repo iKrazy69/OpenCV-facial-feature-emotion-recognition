@@ -1,0 +1,7 @@
+# Tested on macOS (Apple silicon) with Python 3.9
+opencv-python==4.13.0.92
+deepface==0.0.100
+tensorflow==2.20.0
+tf-keras==2.20.1
+numpy==2.0.2
+Pillow==11.3.0  # only for scripts/make_demo.py (README animation)

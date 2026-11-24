@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Output of the app
+captures/
+*.mp4
+*.csv
+screenshot_*.png
+recording_*.mp4
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
